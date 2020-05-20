@@ -6,9 +6,10 @@ body {
   line-height: 32px;
   color: #222222;
   background-color: #f2f4f6;
-  background-image: url("img/hero-bg.jpg");
-  background-repeat: no-repeat;
+  background-image: url("img/sky.gif");
+  background-repeat: repeat;
   background-position: top center;
+
 }
 
 .container {
@@ -171,7 +172,7 @@ body {
 
 .page-footer {
   padding: 40px 0;
-  background-color: #00417d;
+  background-color: rgba(255, 193, 112, 0.53);
   color: #ffffff;
 }
 
